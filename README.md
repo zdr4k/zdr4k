@@ -1,13 +1,9 @@
 ### Hey there 👋
 ### 👨🏽‍💻 About me 
 
-• I'm Kevin, a technology student, yes, I consider myself a student, who studies more than us who work with IT?
+• I'm an IT professional, currently holding the position of cybersecurity enginner and ISO, but also interested in AppSec, DevSecOps and SRE.
 
-• I'm an IT professional, currently holding the position of SysAdmin & ISO, but also interested in AppSec, DevSecOps and SRE.
-
-• In my spare time I like to study new technologies, astronomy and play the piano, I'm also an avid reader.
-
-### 🔭 Goals for 2022
+### 🔭 Goals for 2024
 
 • I would like to use this local to share my ideas, projects and help the community.
 
@@ -38,7 +34,7 @@
 <img src="https://cdn.cdnlogo.com/logos/s/52/snyk.svg" width="50" height="50" />
 <img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="50" height="50" />
 <div>
-<a href="https://github.com/z-drack">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=z-drack&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=z-drack&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/zdr4k">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zdr4k&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=zdr4k&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
