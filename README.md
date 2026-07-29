@@ -1,6 +1,6 @@
 ## Kelvin Santos
 
-Cybersecurity engineer. 
+Cybersecurity engineer that likes scripting and automation.
 
 **Open projects**
 - Skopos — AI-powered recon agent running on GitHub Actions.
